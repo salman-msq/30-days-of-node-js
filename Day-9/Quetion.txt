@@ -1,0 +1,19 @@
+Which of the following are examples of node modules?
+
+a. Express
+
+b. Body-parser
+
+c. Socket.io
+
+d. All of the above
+
+Answer:
+d. All of the above
+
+Reason:
+Express.js is the most popular web framework or module for Node.js. It is designed for building web applications and APIs and building a backend from-scratch for an application in Node.js can be tedious and time consuming. So, developers can save time and focus on other important tasks using the web frameworks like Express.js.
+
+Body-parser is an npm library used to process data sent through an HTTP request body. It shows the four express middlewares for parsing which set through an HTTP request body, the middlewares are text, JSON, url-encoded and raw data. These middlewares work as a functions that process incoming requests before they reach the target controller.
+
+Socket.IO is an event-driven library for real-time web applications. It enables real-time, bi-directional communication between web clients and servers.
